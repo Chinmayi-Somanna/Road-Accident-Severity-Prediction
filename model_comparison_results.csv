@@ -1,0 +1,3 @@
+Model,Accuracy (%),Macro F1-score
+Decision Tree,75.56,0.4307
+Random Forest,85.89,0.308
